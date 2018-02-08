@@ -1,3 +1,5 @@
 Sample Size Calculator: https://www.surveysystem.com/sscalc.htm
 偏差和方差: http://scott.fortmann-roe.com/docs/BiasVariance.html
 网格搜索和交叉验证的联系: http://discussions.youdaxue.com/t/topic/13868
+
+Faces recognition example using eigenfaces and SVM: http://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html
