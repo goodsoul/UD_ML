@@ -1,1 +1,2 @@
 Sample Size Calculator: https://www.surveysystem.com/sscalc.htm
+偏差和方差: http://scott.fortmann-roe.com/docs/BiasVariance.html
